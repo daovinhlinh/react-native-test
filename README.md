@@ -4,8 +4,11 @@ This is a React native project that show the listing item. The app show listing 
 
 ## Features
 
+- Bottom tab navigator
 - Display list of items
 - Form to add new item
+   - Form can choose photo from library
+   - Can interact with slider and switch
 
 ## Getting Started
 
